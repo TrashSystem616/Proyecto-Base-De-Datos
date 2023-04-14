@@ -1,0 +1,17 @@
+C:\Users\chich\source\repos\Miamoreproyecto\bin\Debug\Miamoreproyecto.exe.config
+C:\Users\chich\source\repos\Miamoreproyecto\bin\Debug\Miamoreproyecto.exe
+C:\Users\chich\source\repos\Miamoreproyecto\bin\Debug\Miamoreproyecto.pdb
+C:\Users\chich\source\repos\Miamoreproyecto\bin\Debug\Miamoreproyecto.xml
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.vbproj.AssemblyReference.cache
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.Form1.resources
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.Resources.resources
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.vbproj.GenerateResource.cache
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.vbproj.CoreCompileInputs.cache
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.exe
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.xml
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.pdb
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.Recetas.resources
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.Inicio.resources
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.Login.resources
+C:\Users\chich\source\repos\Miamoreproyecto\obj\Debug\Miamoreproyecto.Chefs.resources
